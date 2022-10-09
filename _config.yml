@@ -54,6 +54,12 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  
+atom_feed:
+  hide: true
+  
+lunr:
+  search_within_pages: true
 
 author:
   name   : "Jack Pendlebury"
@@ -67,7 +73,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/JackHP/"
     - label: "Stack Overflow"
-      icon: "fab fa-fw fa-stackoverflow"
+      icon: "fab fa-fw fa-stack-overflow"
       url: "https://stackoverflow.com/users/3543350/red-shift"
 
 footer:
@@ -79,7 +85,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/JackHP/"
     - label: "Stack Overflow"
-      icon: "fab fa-fw fa-stackoverflow"
+      icon: "fab fa-fw fa-stack-overflow"
       url: "https://stackoverflow.com/users/3543350/red-shift"
 
 defaults:
