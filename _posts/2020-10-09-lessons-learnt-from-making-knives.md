@@ -28,7 +28,7 @@ Using Fusion 360 and a CNC mill also let me expand on the types of products I co
 
 I already had hundreds of dollars worth of pre-cut knife blanks, so I had to use these up first. As the knife had some fairly complex 3d curves on the cheeks of the blade, I used parametric modelling within Fusion to cut down time involved with making adjustments and prototyping a machined version of the knife that matched the hand-made version as close as possible. Designing everything parametrically also let me update all the tool paths automatically without any extra work, further cutting down on R&D time.
 
-{% include figure image_path="/assets/images/hot-rolled-steel-coil-1.jpg" alt="Roles of steel"%}
+{% include figure image_path="/assets/images/Knife Fixtures.PNG" alt="Knife fixture in Fusion 360"%}
 
 With the knife now modeled, I needed a way to hold onto it within the machine and had originally considered using soft jaws - some replaceable jaws for a vise that are machined to match a non-standard shape. The steel is only 0.110" (~2.8mm) thick and I knew that this would mean that the chance for chatter when cutting was high. I don't have access to a vacuum table or a magnetic chuck so this meant the only option I had to hold onto the knives was to use a tape and glue fixture - a technique that is excellent for machining a few parts that are very thin and hard to hold onto.
 
@@ -36,7 +36,7 @@ If I was starting from scratch again I would have  some square stock to begin wi
 
 The beauty of having the parametric CAD model is I could quickly iterate on fixture designs by booleaning out the shape from stock then creating toolpaths. I used the same process when designing the box to put the knife in when complete. Having this all in one program really helped.
 
-{% include figure image_path="/assets/images/hot-rolled-steel-coil-1.jpg" alt="Roles of steel"%}
+{% include figure image_path="/assets/images/155.jpg" alt="Knife fixture in the milling machine"%}
 
 ### Lesson 4: If Quality Matters, Control as Much of the Process as Possible
 
