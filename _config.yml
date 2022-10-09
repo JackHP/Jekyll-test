@@ -57,9 +57,12 @@ plugins:
 
 author:
   name   : "Jack Pendlebury"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/Jack.jpg"
   bio    : "Full Stack Developer"
   links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/jack-pendlebury/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/JackHP/"
@@ -69,6 +72,9 @@ author:
 
 footer:
   links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/jack-pendlebury/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/JackHP/"
