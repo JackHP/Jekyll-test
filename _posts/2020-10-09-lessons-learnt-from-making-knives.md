@@ -4,6 +4,7 @@ categories:
   - JHP Knives
 tags:
   - knives
+classes: wide
 ---
 {% include figure image_path="/assets/images/Parametric.PNG" alt="A screenshot from Fusion 360"%}
 ### Lesson 1: Manufacturing Process Affects Material Properties
