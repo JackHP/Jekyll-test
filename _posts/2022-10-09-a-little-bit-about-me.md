@@ -7,6 +7,7 @@ tags:
   - Bio
   - Biography
   - Jack
+classes: wide
 ---
 I am a Full Stack Developer with professional industry and software development experience gained through working at an American multinational software corporation - Autodesk. 
 
