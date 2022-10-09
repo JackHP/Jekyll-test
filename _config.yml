@@ -66,6 +66,9 @@ author:
   avatar : "/assets/images/Jack.jpg"
   bio    : "Full Stack Developer"
   links:
+    - label: "JHPDB"
+      icon: "fas fa-fw fa-link"
+      url: "https://jackhp.github.io/JHPDB/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/jack-pendlebury/"
@@ -78,6 +81,9 @@ author:
 
 footer:
   links:
+    - label: "JHPDB"
+      icon: "fas fa-fw fa-link"
+      url: "https://jackhp.github.io/JHPDB/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/jack-pendlebury/"
