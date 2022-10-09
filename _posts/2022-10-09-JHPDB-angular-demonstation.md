@@ -1,5 +1,5 @@
 ---
-title: "JHPDB-Angular Demonstation"
+title: "JHPDB - An Angular Demonstation Site"
 categories:
   - JHPDB
 tags:
